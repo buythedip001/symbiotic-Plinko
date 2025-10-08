@@ -1,0 +1,5 @@
+{
+  "name": "Symbiotic Arcade Plinko",
+  "description": "A dynamic and visually appealing Plinko game where users can adjust the number of rows and balls to play. Watch the balls cascade down the triangular peg board to land in multiplier slots at the bottom.",
+  "requestFramePermissions": []
+}
